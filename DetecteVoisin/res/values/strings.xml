@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">DetecteVoisin</string>
+    <string name="discover_peers_button">Découvrir voisin</string>
+    <string name="arreter_discover">Arrêter découvrit</string>
+    <string name="label_peers">Voisin détecté</string>
+    <string name="empty_message">Aucun terminal trouvé, appuyer sur le bouton Découvrir voisin pour commencer</string>
+    <string name="empty_message_histoire">Pas de histoire, appuyer le bouton decourvir pour commencer</string>
+    <string name="p2p_off_warning">Enable P2P from action bar button above or system settings</string>
+    <string name="enable_p2p_button">P2P On/Off</string>
+    <string name="histoire_detection">Histoire de détection des voisins</string>
+</resources>
